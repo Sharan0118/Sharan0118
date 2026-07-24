@@ -54,13 +54,32 @@ Learning, building, and improving every day through code.
 - 🔄 Instant code synchronization
 - 🔗 Room-based collaboration
 - ⚡ Built using WebSockets for real-time communication
+## 🛠 Tech Stack
 
-### 🛠 Tech Stack
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-`Java` • `Spring Boot` • `WebSocket` • `STOMP` • `SockJS` • `CodeMirror` • `MySQL`
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-> 📌 *This project is continuously evolving with new features and improvements.*
-> ---
+### Real-Time Communication
+- WebSocket
+- STOMP
+- SockJS
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,replit,vercel" />
+</p>
+
+### Build Tool
+<p>
+  <img src="https://skillicons.dev/icons?i=maven" />
+</p>
 
 # 📊 GitHub Analytics
 
