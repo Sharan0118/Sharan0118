@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Sharan Poojari</h1>
 
 <h3 align="center">Software Engineer | Java & Spring Boot</h3>
@@ -7,21 +6,32 @@
 Learning, building, and improving every day through code.
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sharan0118">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sharan-m-p">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharanpoojari797@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final Year Information Science Engineering Student (Graduating in 2027)
-- 💼 Aspiring Software Engineer passionate about Java and Backend Development
-- 🚀 Currently building **CodeSync**, a real-time collaborative code editor
+- 🎓 Final Year Information Science Engineering Student (Graduating in **2027**)
+- 💻 Passionate about Java Backend Development
+- 🚀 Building **CodeSync**, a real-time collaborative code editor
 - 🌱 Currently learning **Spring Boot**
-- 🧠 Strengthening my problem-solving skills through Data Structures & Algorithms
-- 📍 Bengaluru, India
-- 🎯 Goal: Build scalable software and start my career as a Software Engineer
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-# 🛠 Skills
+## 🛠 Skills
 
 ### Programming Languages
 
@@ -29,36 +39,36 @@ Learning, building, and improving every day through code.
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
 </p>
 
-### Backend
+### Framework
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman,replit,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,replit,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 💻 CodeSync
+# 💻 CodeSync
 
-A real-time collaborative code editor that allows multiple users to collaborate seamlessly in shared coding rooms.
+Real-time collaborative code editor built using Java and Spring Boot.
 
-### ✨ Features
+### Features
 
-- 👥 Real-time collaboration
+- 👥 Multi-user collaboration
 - 💬 Live chat
-- 📂 Create, rename & delete files
-- 🔄 Instant code synchronization
-- 🔗 Room-based collaboration
-- ⚡ WebSocket-powered communication
+- 📂 File management
+- 🔄 Real-time synchronization
+- 🔗 Room sharing
+- ⚡ Real-time communication
 
-### 🛠 Tech Stack Used in CodeSync
+### Technologies Used
 
 - Java
 - Spring Boot
@@ -69,11 +79,10 @@ A real-time collaborative code editor that allows multiple users to collaborate 
 - STOMP
 - SockJS
 - CodeMirror
-- Maven
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -85,7 +94,7 @@ A real-time collaborative code editor that allows multiple users to collaborate 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -95,59 +104,44 @@ A real-time collaborative code editor that allows multiple users to collaborate 
 
 ---
 
-# 🌱 Current Focus
+## 🌱 Current Focus
 
 ```text
 📚 Learning        → Spring Boot
 🚀 Building        → CodeSync
-🧩 Practicing      → Data Structures & Algorithms
-🎯 Target          → Software Engineer Roles (2027)
-````
+🧩 Practicing      → DSA
+🎯 Target          → Software Engineer (2027)
+```
 
 ---
 
-# 💡 What I'm Working On
+## 💡 What I'm Working On
 
-* 🚀 Improving CodeSync with more collaborative features
-* 🌱 Learning Spring Boot and backend architecture
-* 💻 Solving DSA problems consistently
-* 📚 Building projects to strengthen my software engineering skills
-
----
-
-# 🎯 2026–2027 Goals
-
-* ✅ Complete CodeSync
-* 🔄 Master Spring Boot
-* 🔄 Build more Java projects
-* 🔄 Solve 300+ DSA Problems
-* 🔄 Learn Docker
-* 🔄 Learn AWS Fundamentals
-* 🎯 Secure a Software Engineer role
+- 🚀 Improving CodeSync
+- 🌱 Learning Spring Boot
+- 💻 Solving DSA problems
+- 📚 Building Java projects
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sharan-m-p">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
+<p>
 <a href="mailto:sharanpoojari797@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
+<a href="https://www.linkedin.com/in/sharan-m-p">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 </p>
 
-📧 **Email:** [sharanpoojari797@gmail.com](mailto:sharanpoojari797@gmail.com)
+📧 **Email:** sharanpoojari797@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sharan-m-p
+💼 **LinkedIn:** www.linkedin.com/in/sharan-m-p
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning and building.
+> **"Great software is built one commit at a time."**
 
-```
-```
+⭐ Thanks for visiting my profile!
